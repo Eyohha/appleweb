@@ -1,0 +1,20 @@
+.nav-box {
+    background: rgba(0, 0, 0, 0.8);
+    font-size: 0.85em;
+    font-weight: 200;
+}
+
+#basic-navbar-nav a {
+    margin: 0 34px 0 34px;
+    width: 100% !important;
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+}
+
+#basic-navbar-nav a:hover {
+    opacity: 1;
+}
+.bg-black .navbar-toggler {
+    color:aliceblue !important;
+}

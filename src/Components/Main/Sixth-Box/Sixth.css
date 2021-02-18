@@ -1,0 +1,32 @@
+/* 6th highlight box START */
+.sixth-box .left-internal-box {
+    /* width: 100%; */
+    background-image: url("../../../Assets/Apple-images/spyder-lg.jpg");
+    background-color: black;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: initial;
+    height: 610px;
+    /* margin: 0 10px; */
+    margin-bottom: 10px;
+    padding: 35px;
+}
+
+.sixth-box .right-internal-box {
+    /* width: 108%; */
+    background-image: url("../../../Assets/Apple-images/apple-card-monthly-lg.jpg");
+    background-color: #fbfbfd;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 610px;
+    /* margin: 0 10px; */
+    margin-bottom: 10px;
+    padding-top: 35px;
+}
+
+.forArcade {
+    color: #fbfbfd;
+}
+
+
+/* 6th highlight box END */

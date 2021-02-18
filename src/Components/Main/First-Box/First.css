@@ -1,0 +1,43 @@
+/* first highlight box START */
+.first-box {
+    background-image: url("../../../Assets/Apple-images/ipodPronew-sm.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-color: #fbfbfd;
+    height: 580px;
+    margin-bottom: 10px;
+}
+
+.first-box {
+    padding: 45px 15px;
+}
+
+.price-avail {
+    color: #86868b;
+    font-size: 12px;
+    font-weight: 600;
+    padding-top: 335px;
+    line-height: 1.33337;
+    letter-spacing: -0.01em;
+    text-align: center;
+}
+.left-caption {
+    padding-right: 15px;
+}
+
+
+/* first highlight box END */
+
+@media (min-width: 768px) {
+    
+    .first-box {
+        min-height: 692px;
+        background-image: url("../../../Assets/Apple-images/ipodPronew.jpg");
+    
+    }
+
+    .price-avail {
+        padding-top: 350px;
+    }
+}

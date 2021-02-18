@@ -1,0 +1,67 @@
+/* 5th highlight box START */
+.fifth-box .left-internal-box {
+    background-image: url("../../../Assets/Apple-images/actors-lg.jpg");
+    background-color: #dbdbdb;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: initial;
+    height: 580px;
+    /* width: 100%; */
+    /* margin: 0 10px; */
+    margin-bottom: 10px;
+    padding: 35px;
+}
+
+.fifth-box .right-internal-box {
+    background-image: url("../../../Assets/Apple-images/watch-lg.jpg");
+    background-color: #fbfbfd;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 580px;
+    /* width: 108%; */
+    /* margin: 0 10px; */
+    margin-bottom: 10px;
+    padding-top: 35px;
+}
+
+.top-logo {
+    text-align: center;
+    margin: 10px;
+}
+
+.movie-list-title {
+    text-align: center;
+    padding-top: 400px;
+}
+
+
+.watch-now {
+    text-align: center;
+}
+
+.watch-now a {
+    text-decoration: none;
+    color: #fbfbfd;
+}
+
+.watch-now a:hover {
+    color: yellowgreen;
+}
+
+.watch-now a:after {
+    font-family: "FontAwesome";
+    font-weight: 900;
+    content: "\f144";
+    padding-left: 15px;
+}
+/* @keyframes icon-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+} */
+
+/* 5th highlight box END */

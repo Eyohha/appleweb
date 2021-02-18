@@ -1,0 +1,27 @@
+/* written notice START */
+.notice {
+    padding: 50px 0 0 0;
+    margin: 0 auto;
+}
+
+.opening {
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.details {
+    margin: 15px 85px;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* written notice END */
+
+@media (max-width: 768px) {
+    .details {
+        max-width: 90%;
+        margin: 0 auto;
+        font-size: 15px;
+    }
+}

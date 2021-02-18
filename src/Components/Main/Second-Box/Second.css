@@ -1,0 +1,23 @@
+/* 2nd highlight box START */
+.second-box {
+    background-image: url("../../../Assets/Apple-images/macbookair-new-sm.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-color: #fbfbfd;
+    height: 580px;
+    margin-bottom: 10px;
+}
+
+.second-box {
+    padding: 45px 15px;
+}
+
+/* 2nd highlight box END*/
+
+@media (min-width: 768px) {
+    .second-box {
+    min-height: 692px;
+    background-image: url("../../../Assets/Apple-images/macbookair-new.jpg");
+}
+}

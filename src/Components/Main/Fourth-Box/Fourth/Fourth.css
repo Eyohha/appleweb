@@ -1,0 +1,55 @@
+/* 4th highlight box START */
+.fourth-box .left-internal-box {
+    background-image: url("../../../../Assets/Apple-images/iphone11-colored.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-color: #fbfbfd;
+    height: 610px;
+    /* margin: 0 10px; */
+    margin-bottom: 10px;
+    padding-top: 35px;
+}
+
+.fourth-box .right-internal-box {
+    background-image: url("../../../../Assets/Apple-images/apple-blue-logo.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: #165ca9;
+    color: #fbfbfd;
+    height: 610px;
+    /* margin: 0 10px; */
+    margin-bottom: 10px;
+    padding-top: 35px;
+}
+
+.right-internal-box .cdcLink ul li a {
+    color: goldenrod;
+}
+
+/* .cdcLink .firstLink a {
+    color: #06c;
+}
+
+.cdcLink .secondLink a {
+    color: #06c;
+} */
+
+.right-internal-box .cdcLink .firstLink a:after {
+    font-family: "FontAwesome";
+    font-weight: 900;
+    content: "\f105";
+    padding-left: 10px;
+    display: none;
+}
+
+
+.cdcLink {
+    margin: 28px;
+}
+
+.cdcLink ul li a:hover {
+    color: #86868b;
+}
+
+/* 4th highlight box END */
