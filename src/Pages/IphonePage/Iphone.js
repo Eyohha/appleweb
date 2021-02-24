@@ -25,7 +25,7 @@ function Iphone()
                 <div className="container">
                     <div className="row justify-content-center text-center">
                         <div className="col-12">
-                            <div className="title-wraper bold">Iphones</div>
+                            <div className="title-wraper bold">iPhones</div>
                             <div className="brief-description">
                                 The best for the brightest.
                             </div>
